@@ -1,2 +1,2 @@
 # Python-Programming-Interview-Questions
-Questions and answer Python programming interview question
+Questions and answers Python programming interview question
